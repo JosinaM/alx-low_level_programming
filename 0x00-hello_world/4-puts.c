@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * using function puts to output a string
+/**
+ * main - a program that  uses function puts to output a string
  * Return:0
  */
 int main(void)
