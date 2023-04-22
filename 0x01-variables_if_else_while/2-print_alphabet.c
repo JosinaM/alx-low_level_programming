@@ -9,6 +9,6 @@ int main(void)
 	char alpha = 'a';
 
 		while (alpha <= 'z')
-			putchar(alpha++);
+			putchar(alpha++\n);
 	return (0);
 }
