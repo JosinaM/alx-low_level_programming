@@ -11,8 +11,8 @@ int main(void)
 		while (alpha <= 'z')
 		{
 			putchar(alpha);
-			alpha++
+			alpha++;
 		}
-	purchar('\n')
+	putchar('\n');
 	return (0);
 }
