@@ -6,9 +6,18 @@
  */
 int main(void)
 {
-	char alpha = 'a'
+	char alpha = 'a';
+	char bet = 'A';
 
-		while (alpha <= 'z')
-			putchar(alpha++);
-	return (0);
+		do	{
+			putchar(alpha);
+			alpha++;
+		}	while (bet <= 'z');
+		do	{
+			putchar(bet);
+			bet++;
+		}	while (bet <= 'Z');
+
+	putchar('\n');
+Return(0);
 }
