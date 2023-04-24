@@ -19,5 +19,5 @@ int main(void)
 		}	while (bet <= 'Z');
 
 	putchar('\n');
-Return(0);
+	Return(0);
 }
