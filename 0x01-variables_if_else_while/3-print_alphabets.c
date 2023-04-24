@@ -12,7 +12,7 @@ int main(void)
 		do	{
 			putchar(alpha);
 			alpha++;
-		}	while (bet <= 'z');
+		}	while (alpha <= 'z');
 		do	{
 			putchar(bet);
 			bet++;
